@@ -27,7 +27,7 @@ A modern calorie tracking app rebuilt with **modular JavaScript**, **Webpack**, 
 - Webpack (v5)
 - Babel
 - LocalStorage API
-- Bootstrap (optional)
+- Bootstrap 
 - Netlify (for deployment)
 
 ---
